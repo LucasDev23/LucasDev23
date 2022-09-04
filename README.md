@@ -1,3 +1,3 @@
-## Olá! Me chamo Lucas Silva 👨🏻‍ <br/>
+## Olá! Me chamo Lucas Silva 🏻‍ <br/>
 
 
