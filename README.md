@@ -1,8 +1,5 @@
 ## Olá! Eu sou Lucas da Silva 👋🏻 <br/>
 
-<div align = center>
-<div/>
-
 👨🏻‍💻 Estudante de programação Full Stack <br/>
 
 📚 Possuo conhecimentos em HTML, CSS3, JS <br/>
