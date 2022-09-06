@@ -1,7 +1,9 @@
 ## Olá! Eu sou Lucas da Silva 👋🏻 <br/>
 
 <div align = center>
-img src="https://desblogada.files.wordpress.co..." width="0px"
+img src="![Code](https://user-images.githubusercontent.com/112489137/188744625-6bec2413-659d-46ec-974b-533b182306b9.jpg)
+" width="20px"
+<div/>
 
 👨🏻‍💻 Estudante de programação Full Stack <br/>
 
