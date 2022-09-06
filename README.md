@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Estudante de programação Full Stack <br/>
 
-📚 Possuo conhecimentos em HTML, CSS, JS <br/>
+📚 Possuo conhecimentos em HTML, CSS3, JS <br/>
 
 😁 Gosto muito de trabalhar em equipe <br/>
 
