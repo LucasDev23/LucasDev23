@@ -1,5 +1,7 @@
 ## Olá! Eu sou Lucas da Silva 👋🏻 <br/>
 
+![Code](https://user-images.githubusercontent.com/112489137/188742499-a76d8397-685e-4d8b-a937-440d22fea938.jpg)
+
 👨🏻‍💻 Estudante de programação Full Stack <br/>
 
 📚 Possuo conhecimentos em HTML, CSS3, JS <br/>
