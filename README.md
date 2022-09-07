@@ -6,10 +6,11 @@
 </div>
 <br>
 <br>
-🧑🏻‍💻 <em>Estudante de programação Full Stack</em>
+<ul>
+ 🧑🏻‍💻 <li><em>Estudante de programação Full Stack</em></li>
 
-🏠 <em>Resido em Ce-Fortaleza</em>
-
+ 🏠 <li><em>Resido em Ce-Fortaleza</em></li>
+</ul>
 </br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lcss2/)
