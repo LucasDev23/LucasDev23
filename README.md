@@ -4,14 +4,13 @@
 
 <img src="https://user-images.githubusercontent.com/112489137/188745801-7dcbc5bd-c7f9-4a1b-8856-cb7895150667.jpg" width="450px"/>
 </div>
-<br/>
 <br>
 <br>
-📚 Possuo conhecimentos em HTML, CSS3, JS <br/>
+📚 Possuo conhecimentos em HTML, CSS3, JS
 
-😁 Gosto muito de trabalhar em equipe <br/>
+😁 Gosto muito de trabalhar em equipe 
 
-🏠 Resido em Ce-Fortaleza <br/>
+🏠 Resido em Ce-Fortaleza
 
 <br/>
 
