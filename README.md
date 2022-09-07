@@ -6,9 +6,9 @@
 </div>
 <br>
 <br>
-🧑🏻‍💻 Estudante de programação Full Stack
+🧑🏻‍💻 <em>Estudante de programação Full Stack</em>
 
-🏠 Resido em Ce-Fortaleza
+🏠 <em>Resido em Ce-Fortaleza</em>
 
 </br>
 
