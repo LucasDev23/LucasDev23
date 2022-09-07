@@ -7,6 +7,7 @@
 <br>
 <br>
 🧑🏻‍💻 Estudante de programação Full Stack
+
 🏠 Resido em Ce-Fortaleza
 
 </br>
