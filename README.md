@@ -6,10 +6,7 @@
 </div>
 <br>
 <br>
-📚 Possuo conhecimentos em HTML, CSS3, JS
-<br>
-🧑🏻‍💻 Estudante de programaçao Full Stack
-
+🧑🏻‍💻 Estudante de programação Full Stack
 🏠 Resido em Ce-Fortaleza
 
 </br>
