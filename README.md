@@ -7,9 +7,9 @@
 <br>
 <br>
 <ul>
- 🧑🏻‍💻 <li><em>Estudante de programação Full Stack</em></li>
-
- 🏠 <li><em>Resido em Ce-Fortaleza</em></li>
+ <li><em>Estudante de programação Full Stack</em></li>
+ <li><em>Front-End Developer</em></li>
+ <li><em>Resido em Ce-Fortaleza</em></li>
 </ul>
 </br>
 
