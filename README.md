@@ -9,15 +9,15 @@
 ##
 
 <div>
-  <a href="https://beacons.ai/LucasDev23">
+  <a href="https://github.com/LucasDev23">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
  <h2><em>Skills</em></h2>
  
- <img align="center" alt="Lucas-Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Lucas-HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Lucas-CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 </br>
 </br>
