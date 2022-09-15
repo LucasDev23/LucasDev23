@@ -10,8 +10,9 @@
 ##
 
 <div>
-  <a href="https://github.com/LucasDev23">
+  <a href="https://beacons.ai/LucasDev23">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <img align="center" alt="Lucas-Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
