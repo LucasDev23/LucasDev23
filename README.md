@@ -1,6 +1,5 @@
 <h2> Olá! Eu sou Lucas da Silva </h2> <br/>
 
-<br>
 <ul>
  <li><em>Full stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
