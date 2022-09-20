@@ -1,10 +1,10 @@
 <h2> Olá! Eu sou Lucas da Silva </h2> <br/>
 
 <ul>
- <li><em>Full stack programming student</em></li>
+ <li><em>Full-stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
  <li><em>I live in Ce-Fortaleza</em></li>
- <li><em>computer network</em></li>
+ <li><em>computer network</em></li
 </ul>
 
 ##
