@@ -4,6 +4,7 @@
  <li><em>Full stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
  <li><em>I live in Ce-Fortaleza</em></li>
+ <li><em>computer network</em></li>
 </ul>
 
 ##
