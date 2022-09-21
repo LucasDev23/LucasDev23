@@ -34,3 +34,6 @@
 <div style="display: inline_block"><br>
   <img height="260" src="https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif">
 </div>
+
+ 
+ ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
