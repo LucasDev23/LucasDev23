@@ -32,5 +32,4 @@
   <img height="260" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f2f07e74a99606c66f0e003a50699283aa810b77&rid=giphy.gif&ct=g">
 </div>
 
- 
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
