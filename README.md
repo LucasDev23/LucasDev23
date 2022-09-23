@@ -1,4 +1,4 @@
-<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'>Olá! Eu sou Lucas da Silva </h2> <br/>
+<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'>Olá! Me chamo Lucas da Silva </h2> <br/>
 <ul>
  <li><em>Full-stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
