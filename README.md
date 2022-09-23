@@ -2,7 +2,6 @@
 <ul>
  <li><em>Full-stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
- <img height="260" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f2f07e74a99606c66f0e003a50699283aa810b77&rid=giphy.gif&ct=g">
  <li><em>I live in Ce-Fortaleza</em></li>
  <li><em>computer network</em></li
 </ul>
@@ -31,7 +30,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img height="260" src="https://c.tenor.com/o6aj3W2I7rMAAAAC/dev.gif">
+  <img height="260" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f2f07e74a99606c66f0e003a50699283aa810b77&rid=giphy.gif&ct=g">
 </div>
 
  
