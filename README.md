@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/LucasDev23">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <h2><img src="https://i.gifer.com/origin/cb/cbad8974b5928d9e4878525b25d64c2d_w200.gif" width='35px' height=30px'><em>Skills</em></h2>
