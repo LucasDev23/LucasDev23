@@ -7,12 +7,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/LucasDev23">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
  <h3><img src="https://i.gifer.com/origin/cb/cbad8974b5928d9e4878525b25d64c2d_w200.gif" width='35px' height='30px'><em>Tools</em></h3>
  
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -44,4 +38,12 @@
   <img height="260" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f2f07e74a99606c66f0e003a50699283aa810b77&rid=giphy.gif&ct=g">
 </div>
 
+</br>
+</br>
 
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='26px' height='26px'> <em>GitHub Stats</em></h3>
+<div>
+  <a href="https://github.com/LucasDev23">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
+</div>
