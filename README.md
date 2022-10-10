@@ -1,4 +1,4 @@
-<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'>Olá! Me chamo Lucas da Silva </h2> <br/>
+<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'><em>Hi! I'm Lucas da Silva</em></h2> <br/>
 <ul>
  <li><em>Full-stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
@@ -33,7 +33,7 @@
   </br>
 
 
-<h3><img src="https://i.gifer.com/origin/cb/cbad8974b5928d9e4878525b25d64c2d_w200.gif" width='35px' height=30px'><em>About me</em><h3>
+<h3><img src="https://i.gifer.com/origin/cb/cbad8974b5928d9e4878525b25d64c2d_w200.gif" width='35px' height=30px'><em>About me</em></h3>
 
 [![Likendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-da-silva-lima-479133232/)
 <a href = "mailto:lucasdasilvalima2757@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
