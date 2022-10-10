@@ -1,4 +1,7 @@
-<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'><em>Hi! I'm Lucas da Silva</em></h2> <br/>
+<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'><em>Hi! I'm Lucas da Silva</em></h2>
+
+<img src="https://www.apptuts.net/wp-content/uploads/2018/08/destaquedesenvolvimento.jpg" width="450">
+
 <ul>
  <li><em>Full-stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
