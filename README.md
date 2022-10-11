@@ -5,7 +5,7 @@
 <ul>
  <li><em>Full-stack programming student</em></li>
  <li><em>Front-End Developer</em></li>
- <li><em>I live in Ce-Fortaleza</em></li>
+ <li><em>I live in Brasil Fortaleza-Ce</em></li>
 </ul>
 
 ##
