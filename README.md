@@ -1,4 +1,5 @@
-<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'><em>Hi! I'm Lucas da Silva</em><img src="https://www.apptuts.net/wp-content/uploads/2018/08/destaquedesenvolvimento.jpg" width="430" align="right"></h2>
+<h2><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height=30px'><em>Hi! I'm Lucas da Silva</em><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f2f07e74a99606c66f0e003a50699283aa810b77&rid=giphy.gif&ct=g" width="400" align="right"></h2>
+
 
 
 <ul>
@@ -35,10 +36,6 @@
 <a href = "mailto:lucasdasilvalima2757@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=dark)](https://www.freecodecamp.org/LucasDev23)
 
-</div>
-<div style="display: inline_block"><br>
-  <img height="260" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f2f07e74a99606c66f0e003a50699283aa810b77&rid=giphy.gif&ct=g">
-</div>
 
 </br>
 
@@ -46,8 +43,9 @@
  
  </br>
  
-<div>
+<div align="center">
   <a href="https://github.com/LucasDev23">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasDev23&theme=dark&show_icons=true"/>
+
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev23&layout=compact&langs_count=7&theme=dark"/>
 </div>
